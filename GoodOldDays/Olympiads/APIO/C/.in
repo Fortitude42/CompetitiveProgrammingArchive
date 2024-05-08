@@ -1,0 +1,10 @@
+5 8
+01001
+query 1 6
+toggle 3
+toggle 3
+toggle 2
+toggle 3
+toggle 2
+toggle 4
+query 2 6

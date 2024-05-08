@@ -1,0 +1,47 @@
+//scanf("%d%d%d%d%d%d", &n, &q, &sh, &sw, &mixed, &Long, &w);
+sh = 1, sw = ?, Long = 0/1, mixed = 1
+
+gen1 200000 200000 1 0 1 0 0 rnoker
+gen1 200000 200000 1 0 0 0 0 betnlkwve
+gen1 200000 200000 1 0 1 0 0 ernlkov
+gen1 200000 200000 1 0 0 0 0 bklbesd
+gen1 200000 200000 1 0 1 0 0 rbglk
+
+gen1 200000 200000 1 50 1 0 0 efvvmovw
+gen1 200000 200000 1 60 1 0 0 vddmkcasc
+gen1 200000 200000 1 80 1 0 0 fnkjwv
+gen1 200000 200000 1 90 1 0 0 wdvkda
+gen1 200000 200000 1 100 1 0 0 vernk
+
+
+gen1 200000 200000 1 50 1 0 10 vokac
+gen1 200000 200000 1 70 1 0 30 vdsko
+gen1 200000 200000 1 80 1 1 -10 wvojnv
+gen1 200000 200000 1 90 1 0 -20 qpcvq
+gen1 200000 200000 1 100 1 1 -30 gmokw
+
+
+gen1 200000 200000 1 -1 1 0 4423 dfmoke
+gen1 200000 200000 1 -1 1 1 -4011 evfoknf
+gen1 200000 200000 1 -1 1 1 -10 vnowvw
+gen1 200000 200000 1 -1 1 0 -20 llvvnowv
+gen1 200000 200000 1 -1 1 1 -30 neofbejnbo
+
+
+gen1 200000 200000 1 -1 1 0 0 oebnrbnwo
+gen1 200000 200000 1 -1 1 1 5 mdfpffs
+gen1 200000 200000 1 -1 1 0 10 vnownv
+gen1 200000 200000 1 -1 1 1 20 mwpefkwmpv
+gen1 200000 200000 1 -1 1 1 -10 mvdspvmpsd
+
+
+gen1 200000 200000 1 100 1 0 0 nvoskvsvvs
+gen1 200000 200000 1 200 1 1 5 svmsdv
+gen1 200000 200000 1 300 1 0 10 sndvosjdkvno
+gen1 200000 200000 1 500 1 0 -5 vsnvsjndlv
+gen1 200000 200000 1 600 1 1 -10 sdvojvsld
+
+
+
+****************************************
+gen1 5 5 1 1 1 1 0 ads

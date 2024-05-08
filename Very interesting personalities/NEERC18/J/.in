@@ -1,0 +1,7 @@
+2
+! 123!!456
+4
+1112233334447777778888999000001111  222233444455566677778889991 # quite a long!
+123!!456789 # ho-ho! what a catch!
+123!!456abc # a variant of that
+0123!!456789 # that is not going to work

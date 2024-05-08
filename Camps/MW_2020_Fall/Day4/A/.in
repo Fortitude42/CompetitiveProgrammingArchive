@@ -1,0 +1,21 @@
+int void
+while if return
+#
+/* sizeof(int) == 4 */
+int main(void) {
+int max = 0x80000000, n;
+while(scanf("%d", &n) == 1)
+if (n > max) max = n;
+printf("%d", max);
+return 0;
+}
+#
+/* sizeof(int) == 4 */
+int n(void) {
+int max = 0x80000000, main;
+while(printf("%d", &main) == 1)
+if(main > max)
+max = main;
+scanf("Answer: \"%d\"", max);
+return 0;
+}
